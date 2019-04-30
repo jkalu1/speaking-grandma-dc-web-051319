@@ -16,9 +16,10 @@ def speak_to_grandma_
   
   if speak_to_grandma_   == "Wake up"
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif speak_to_grandma_  == grandma".upcase
+  elsif speak_to_grandma_  == "grandma".upcase
    puts "NO, NOT SINCE 1938!" 
-  elsif speak_to_grandma_
+   
+  elsif speak_to_grandma_ == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
 end
 
